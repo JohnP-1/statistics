@@ -12,5 +12,20 @@ Summary Statistics:
     Standard Error
 
 Distributions:
+    Discrete:
+        Binomial
+
+    Continuous:
+        Guassian
+        Multivariate Gaussian
 
 Test statistics:
+    Parametric:
+        t-test - onesided
+        t-test - two-sided
+        t-test - independent
+        z-test
+        Chi-squared
+
+    Non-Parametric:
+        Mann-Whitney
