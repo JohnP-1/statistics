@@ -18,12 +18,17 @@ Distributions:
     Continuous:
         Guassian
         Multivariate Gaussian
+        student-t - COMPLETE
+        F-distribution
+        z-distribution
+        Chi-Square distribution
 
 Test statistics:
     Parametric:
         t-test - onesided
         t-test - two-sided
         t-test - independent
+        F-test
         z-test
         Chi-squared
 
